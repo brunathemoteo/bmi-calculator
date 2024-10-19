@@ -6,7 +6,7 @@
 
 <h2 id="layout">🎨 Layout</h2>
 
-<p align="center">
+<p align="left">
     <img src="./assets/images/calculadora-imc.png" alt="Image Example" width="400px">
 </p>
 
@@ -20,3 +20,10 @@
 <h2 id="started">🚀 Objetivo</h2>
 
 O principal objetivo deste projeto foi praticar a manipulação da DOM utilizando JavaScript.
+
+
+## 📫 Como Me Encontrar:
+
+LinkedIn: [Bruna Themoteo](https://www.linkedin.com/in/brunathemoteo/)
+
+Email: dev.brunathemoteo@gmail.com
